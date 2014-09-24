@@ -1,3 +1,3 @@
-hello-world
+Hello World
 ===========
-Hello World in C
+Just a Hello World program in C
