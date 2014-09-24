@@ -1,3 +1,3 @@
 hello-world
 ===========
-This is planet neutron.
+Hello World in C
